@@ -1,6 +1,7 @@
 # Desafio-de-Telecom-X-analisis-y-evasion-de-clientes.
 
-✍️ Informe del Análisis Exploratorio de Datos (EDA):
+## ✍️ Informe del Análisis Exploratorio de Datos (EDA):
+
 Introducción:
 
 Este informe presenta un análisis exploratorio de datos (EDA) sobre un dataset de Telecom X, con el objetivo de comprender los factores que influyen en la evasión de clientes (Churn).
