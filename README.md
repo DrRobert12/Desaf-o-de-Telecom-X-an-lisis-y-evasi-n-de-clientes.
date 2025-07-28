@@ -16,5 +16,5 @@ Exploración de la distribución de la variable 'Churn' entre los clientes y có
 🤔 Conclusiones e Insights:
 El análisis exploratorio de datos reveló patrones interesantes, como la distribución de la variable 'Churn' entre los clientes y cómo se distribuye la evasión según variables categóricas y numéricas.
 
-🎓 Recomendaciones y concluciónes propias:
-Recomendaria realizar un análisis más profundo de los factores que influyen en la evasión de clientes, como el tipo de contrato, el método de pago y el tiempo de contrato. Además, sugeriría implementar acciones estratégicas para retener a los clientes con mayor riesgo de evasión.
+🎓 Recomendaciones y concluciones propias:
+Recomendaría realizar un análisis más profundo de los factores que influyen en la evasión de clientes, como el tipo de contrato, el método de pago y el tiempo de contrato. Además, sugeriría implementar acciones estratégicas para retener a los clientes con mayor riesgo de evasión.
